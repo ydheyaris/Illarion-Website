@@ -1,8 +1,0 @@
-illarion_account_system:
-    type:     rest
-    resource: "@IllarionAccountSystemBundle/Resources/config/routing.yml"
-    prefix:   /account
-
-NelmioApiDocBundle:
-    resource: "@NelmioApiDocBundle/Resources/config/routing.yml"
-    prefix:   /api/doc
